@@ -63,15 +63,23 @@
 
 ---
 
-# 🐱 Coding Cat
+
+---
+
+# 💻 Developer Zone
 
 <div align="center">
 
-<img width="350" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
+<img width="420" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" />
+
+<br><br>
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 
 </div>
 
 ---
+```
 
 # 📊 GitHub Analytics
 
